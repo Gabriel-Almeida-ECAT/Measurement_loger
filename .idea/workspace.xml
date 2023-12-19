@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53266904-63cf-4e96-bad3-9836332bfeda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frames/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/0.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frames/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/1.jpg" afterDir="false" />
@@ -56,7 +54,6 @@
       <change beforePath="$PROJECT_DIR$/frames/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frames/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +62,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/image_handler/img_filters.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,7 +122,7 @@
       <workItem from="1701730114665" duration="1005000" />
       <workItem from="1702767750296" duration="2648000" />
       <workItem from="1702857514076" duration="4301000" />
-      <workItem from="1702945172049" duration="6523000" />
+      <workItem from="1702945172049" duration="8292000" />
     </task>
     <servers />
   </component>
@@ -146,18 +140,7 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>71</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/text_reader$main.coverage" NAME="main Coverage Results" MODIFIED="1702951668255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text_reader$main.coverage" NAME="main Coverage Results" MODIFIED="1702953235626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
