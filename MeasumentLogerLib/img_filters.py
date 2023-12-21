@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 
 
 def gaussian_and_otsu(img_obj):
@@ -36,8 +37,16 @@ def get_gray_img(img_obj):
 
 
 def adaptive_gaussian_threshold(img_obj):
-    blur = cv2.GaussianBlur(img_obj, (5, 5), 0)
+    blur = cv2.GaussianBlur(img_obj, (7, 7), 0)
     return cv2.adaptiveThreshold(blur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 55, 8)
+
+
+def invert_img(img_obj):
+    return cv2.bitwise_not(img_obj)
+
+
+def median_blur(img_obj):
+    return cv2.medianBlur(img_obj, 7)
 
 
 def get_contours(th):

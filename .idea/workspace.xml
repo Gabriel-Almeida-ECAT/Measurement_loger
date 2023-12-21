@@ -2,63 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53266904-63cf-4e96-bad3-9836332bfeda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/27.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/29.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/30.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/31.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/32.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/33.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/34.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/35.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/36.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/37.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/38.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/39.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/40.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/41.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/42.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/43.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/44.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/45.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/46.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/47.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/48.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/49.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frames/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frames/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeasumentLogerLib/img_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasumentLogerLib/img_filters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,15 +33,60 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Documentos_HD/Códigos/task_manager&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documentos_HD/Códigos/Trab1_PDS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Model2">
+    <configuration name="Model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="text_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasumentLogerLib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasumentLogerLib/Model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Model2" type="PythonConfigurationType" factoryName="Python">
+      <module name="text_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Documentos_HD\Códigos\text_reader\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasumentLogerLib/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasumentLogerLib/Model2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="text_reader" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +109,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Model2" />
+      <item itemvalue="Python.Model" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Model" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -122,7 +137,10 @@
       <workItem from="1701730114665" duration="1005000" />
       <workItem from="1702767750296" duration="2648000" />
       <workItem from="1702857514076" duration="4301000" />
-      <workItem from="1702945172049" duration="8292000" />
+      <workItem from="1702945172049" duration="9044000" />
+      <workItem from="1703026338495" duration="5766000" />
+      <workItem from="1703106502834" duration="4084000" />
+      <workItem from="1703114638326" duration="5732000" />
     </task>
     <servers />
   </component>
@@ -141,6 +159,8 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/text_reader$main.coverage" NAME="main Coverage Results" MODIFIED="1702953235626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text_reader$main.coverage" NAME="main Coverage Results" MODIFIED="1703120371267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/text_reader$Model2.coverage" NAME="Model2 Coverage Results" MODIFIED="1703120380884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/" />
+    <SUITE FILE_PATH="coverage/text_reader$Model.coverage" NAME="Model Coverage Results" MODIFIED="1703119018947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib" />
   </component>
 </project>
