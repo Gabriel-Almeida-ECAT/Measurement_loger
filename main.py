@@ -22,7 +22,13 @@ def get_video_frames(video_path, test=False):
     video = cv2.VideoCapture(video_path)
 
     counter = 0
-    video_frame_rate = 30
+
+    fps = video_frame_rate = video.get(cv2.CAP_PROP_FPS)
+    print(f'Frames per second: {fps}')
+
+    #sample_rate = get_sample_rate() #take percentage as input, maximum is the video fps
+    sample_rate = 1 #for debug porposes
+    print(f'Amount of registers per second: {sample_rate}')
     img_number = 0
 
     while(True):
@@ -35,7 +41,7 @@ def get_video_frames(video_path, test=False):
             break
 
         #if counter == 0:
-        if counter == video_frame_rate: #verificar apenas um dado por segundo
+        if counter == fps/sample_rate: #verificar apenas um dado por segundo
             equalized_img = img_filters.equalize_hist(frame)
             gray_img = img_filters.get_gray_img(equalized_img)
 
@@ -44,11 +50,12 @@ def get_video_frames(video_path, test=False):
             inverted_img = img_filters.invert_img(gaussia_binary)
             #otsu = img_filters.gaussian_and_otsu(gray_img)
 
-            new_size = (28, 28)
-            resized_image = cv2.resize(inverted_img, new_size)
+            #new_size = (28, 28)
+            #resized_image = cv2.resize(inverted_img, new_size)
 
             img_path = 'frames/' + str(img_number) + '.jpg'
-            cv2.imwrite(img_path, resized_image)
+            cv2.imwrite(img_path, inverted_img)
+
             img_number += 1
             counter = 0
 
@@ -86,7 +93,6 @@ def get_num_vals_contours():
         img_obj = cv2.imread(img_path)
 
         height, width, _ = img_obj.shape
-
 
         configs = '-c tessedit_char_whitelist=0123456789. --psm 6 --oem 3 digits'
 
