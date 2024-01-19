@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="53266904-63cf-4e96-bad3-9836332bfeda" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeasumentLogerLib/Model2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasumentLogerLib/Model2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeasumentLogerLib/img_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasumentLogerLib/img_filters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
@@ -27,6 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XVQ7Idq5ExKqaMTlTrIzL1jUQ4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,35 +42,21 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Documentos_HD/Codes/text_reader&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documentos_HD/Codes/text_reader/MeasumentLogerLib/yolo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Model2">
-    <configuration name="Model" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="text_reader" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasumentLogerLib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasumentLogerLib/Model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documentos_HD\Codes\text_reader\MeasumentLogerLib\yolo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos_HD\Codes\text_reader\MeasumentLogerLib\yolo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vision_cloud">
     <configuration name="Model2" type="PythonConfigurationType" factoryName="Python">
-      <module name="text_reader" />
+      <module name="measurement_loger" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -87,8 +77,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="data_handler" type="PythonConfigurationType" factoryName="Python">
+      <module name="measurement_loger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasumentLogerLib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasumentLogerLib/data_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="text_reader" />
+      <module name="measurement_loger" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -109,14 +121,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vision_cloud" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="measurement_loger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Documentos_HD\Codes\text_reader\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud/vision_cloud.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo_digit_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="measurement_loger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Documentos_HD\Codes\text_reader\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MeasumentLogerLib/yolo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MeasumentLogerLib/yolo/yolo_digit_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.data_handler" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Model2" />
-      <item itemvalue="Python.Model" />
+      <item itemvalue="Python.vision_cloud" />
+      <item itemvalue="Python.yolo_digit_detector" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Model" />
+        <item itemvalue="Python.vision_cloud" />
+        <item itemvalue="Python.yolo_digit_detector" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +206,17 @@
       <workItem from="1703719561185" duration="3994000" />
       <workItem from="1703723811180" duration="790000" />
       <workItem from="1703724619733" duration="283000" />
-      <workItem from="1704239638299" duration="2197000" />
+      <workItem from="1704239638299" duration="2408000" />
+      <workItem from="1704929178016" duration="8923000" />
+      <workItem from="1705004546974" duration="56000" />
+      <workItem from="1705004631097" duration="1864000" />
+      <workItem from="1705190984319" duration="1229000" />
+      <workItem from="1705263680807" duration="677000" />
+      <workItem from="1705354379411" duration="4323000" />
+      <workItem from="1705450112507" duration="2033000" />
+      <workItem from="1705452179934" duration="2993000" />
+      <workItem from="1705538976920" duration="3279000" />
+      <workItem from="1705623131812" duration="10534000" />
     </task>
     <servers />
   </component>
@@ -165,9 +234,25 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MeasumentLogerLib/vision_cloud/vision_cloud.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/measurement_loger$data_handler.coverage" NAME="data_handler Coverage Results" MODIFIED="1705629419673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib" />
+    <SUITE FILE_PATH="coverage/measurement_loger$Model2.coverage" NAME="Model2 Coverage Results" MODIFIED="1705450486485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/" />
+    <SUITE FILE_PATH="coverage/measurement_loger$yolo_digit_detector.coverage" NAME="yolo_digit_detector Coverage Results" MODIFIED="1705547585429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/yolo" />
     <SUITE FILE_PATH="coverage/text_reader$main.coverage" NAME="main Coverage Results" MODIFIED="1704240792012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text_reader$Model2.coverage" NAME="Model2 Coverage Results" MODIFIED="1704241812035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/" />
+    <SUITE FILE_PATH="coverage/measurement_loger$main.coverage" NAME="main Coverage Results" MODIFIED="1705627164917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text_reader$Model.coverage" NAME="Model Coverage Results" MODIFIED="1703119018947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib" />
+    <SUITE FILE_PATH="coverage/measurement_loger$vision_cloud.coverage" NAME="vision_cloud Coverage Results" MODIFIED="1705632850066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud" />
   </component>
 </project>

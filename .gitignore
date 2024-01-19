@@ -1,3 +1,5 @@
+*.h5
+
 frames/
 kaggle/
 
@@ -5,6 +7,9 @@ MeasumentLogerLib/model2.h5
 MeasumentLogerLib/Untitled.png
 MeasumentLogerLib/model2/
 
+MeasumentLogerLib/vision_cloud/teste-text-ocr-0d8011183118.json
+
+requirements2.txt
 video_2023-11-01_12-08-43.MP4
 extern_code.py
 Notes.txt

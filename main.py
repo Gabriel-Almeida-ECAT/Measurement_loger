@@ -23,7 +23,7 @@ def get_video_frames(video_path, test=False):
 
     counter = 0
 
-    fps = video_frame_rate = video.get(cv2.CAP_PROP_FPS)
+    fps = int(video.get(cv2.CAP_PROP_FPS))
     print(f'Frames per second: {fps}')
 
     #sample_rate = get_sample_rate() #take percentage as input, maximum is the video fps
@@ -41,7 +41,7 @@ def get_video_frames(video_path, test=False):
             break
 
         #if counter == 0:
-        if counter == fps/sample_rate: #verificar apenas um dado por segundo
+        if counter == fps/sample_rate: #verificar x dados por segundo
             equalized_img = img_filters.equalize_hist(frame)
             gray_img = img_filters.get_gray_img(equalized_img)
 
@@ -61,7 +61,7 @@ def get_video_frames(video_path, test=False):
 
         counter += 1
 
-    print(f'\n=> Frames generated at folder \'{frames_path}\'')
+    print(f'\n=> {img_number} frames generated at folder \'{frames_path}\'')
     video.release()
     return True
 
@@ -135,7 +135,7 @@ if __name__ == '__main__':
         '''video_path = input('\nEnter video path: ')
         get_video_frames(video_path, test=True)'''
 
-        get_video_frames('video_2023-11-01_12-08-43.mp4', test=True)
+        get_video_frames('video_2023-11-01_12-08-43.mp4', test=False)
 
     '''numbers = get_num_vals()
 
