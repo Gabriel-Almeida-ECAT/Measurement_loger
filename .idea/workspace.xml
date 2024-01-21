@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53266904-63cf-4e96-bad3-9836332bfeda" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeasumentLogerLib/img_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasumentLogerLib/img_filters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud/vision_cloud.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud/vision_cloud.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +212,8 @@
       <workItem from="1705450112507" duration="2033000" />
       <workItem from="1705452179934" duration="2993000" />
       <workItem from="1705538976920" duration="3279000" />
-      <workItem from="1705623131812" duration="10534000" />
+      <workItem from="1705623131812" duration="11643000" />
+      <workItem from="1705872092771" duration="3374000" />
     </task>
     <servers />
   </component>
@@ -234,17 +231,6 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MeasumentLogerLib/vision_cloud/vision_cloud.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/measurement_loger$data_handler.coverage" NAME="data_handler Coverage Results" MODIFIED="1705629419673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib" />
     <SUITE FILE_PATH="coverage/measurement_loger$Model2.coverage" NAME="Model2 Coverage Results" MODIFIED="1705450486485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/" />
@@ -253,6 +239,6 @@
     <SUITE FILE_PATH="coverage/text_reader$Model2.coverage" NAME="Model2 Coverage Results" MODIFIED="1704241812035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/" />
     <SUITE FILE_PATH="coverage/measurement_loger$main.coverage" NAME="main Coverage Results" MODIFIED="1705627164917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/text_reader$Model.coverage" NAME="Model Coverage Results" MODIFIED="1703119018947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib" />
-    <SUITE FILE_PATH="coverage/measurement_loger$vision_cloud.coverage" NAME="vision_cloud Coverage Results" MODIFIED="1705632850066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud" />
+    <SUITE FILE_PATH="coverage/measurement_loger$vision_cloud.coverage" NAME="vision_cloud Coverage Results" MODIFIED="1705875346804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MeasumentLogerLib/vision_cloud" />
   </component>
 </project>
